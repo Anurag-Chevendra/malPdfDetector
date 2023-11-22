@@ -6,4 +6,4 @@ Since AV's cannot detect malicious pdf's, I have created a tool that helps you i
 The pdf-parser.py file and the portable executable must ALWAYS be in the same directory. 
 
 malPdfDetector.exe [maliciousfile.pdf]
-![Alt text]([http://url/to/img.png](https://github.com/Anurag-Chevendra/malPdfDetector/blob/main/image.png)https://github.com/Anurag-Chevendra/malPdfDetector/blob/main/image.png)
+![Malicious PDF detector](image.png)
